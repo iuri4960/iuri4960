@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=435&lines=Hello!+welcome+to+my+profile!;i+am+a+computer+engineering+student;technology+enthusiast+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23238E&center=true&vCenter=true&width=435&lines=Hello!+welcome+to+my+profile!;i+am+a+computer+engineering+student;technology+enthusiast+💻)](https://git.io/typing-svg)
 
 ![status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=github)
 
